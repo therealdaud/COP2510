@@ -1,2 +1,2 @@
-# COP2510
+# hello-world
 Tutorial for practicing Github
